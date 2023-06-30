@@ -1,4 +1,6 @@
 #pond {
-    display: flex;
-    
+  display: flex;
+flex-direction: row-reverse;
+justify-content: center;
+align-items: end;
 }
