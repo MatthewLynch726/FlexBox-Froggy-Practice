@@ -1,4 +1,8 @@
 #pond {
-    display: flex;
-    
+  display: flex;
+  align-items: flex-start;
+}
+
+.yellow {
+align-self: flex-end;
 }
